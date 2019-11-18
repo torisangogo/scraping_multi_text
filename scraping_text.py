@@ -1,6 +1,6 @@
 '''
     This program is text scraping program from some Web pages.
-    Author: rie naruo
+    Author: NR
     2019/11/01
 '''
 import pandas as pd
